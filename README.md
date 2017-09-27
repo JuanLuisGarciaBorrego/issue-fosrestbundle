@@ -1,4 +1,11 @@
 issue-fosrestbundle
 ===================
 
-A Symfony project created on September 26, 2017, 5:34 pm.
+PUT Controller - ConstraintViolationList as parameter detect the constraint uniqueEntity - Don't use Form
+
+
+**Error issue [#1751](https://github.com/FriendsOfSymfony/FOSRestBundle/issues/1751)**
+
+![GET](./docs/METHOD-GET.png)
+
+![GET](./docs/PUT-ERROR.png)
